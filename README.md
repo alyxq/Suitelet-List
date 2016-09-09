@@ -1,2 +1,2 @@
 # newRepo
-you die now
+Netsuite Sample List ( SuiteScript 1.0) 

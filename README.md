@@ -1,2 +1,2 @@
 # newRepo
-Netsuite Sample List ( SuiteScript 1.0) 
+Netsuite Sample List Suitelet (SuiteScript 1.0) 
